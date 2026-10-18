@@ -1,0 +1,33 @@
+# ─── Dependencies ────────────────────────────────────────────────────────────
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# ─── Production Build ─────────────────────────────────────────────────────────
+client/dist/
+
+# ─── Environment / Secrets ────────────────────────────────────────────────────
+# Real .env files contain secrets and must NEVER be committed.
+# .env.example files are safe templates and ARE tracked intentionally.
+.env
+client/.env
+server/.env
+*.env.local
+*.env.production
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+server/logs/
+
+# ─── OS / Editor clutter ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
