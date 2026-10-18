@@ -1,6 +1,6 @@
 # SplitBill — Split-Bill & Group Expense Tracker
 
-A college-level full-stack web application that helps groups of friends, flatmates, or trip members record shared expenses, see who owes whom, and settle up efficiently.
+A full-stack web application that helps groups of friends, flatmates, or trip members record shared expenses, see who owes whom, and settle up efficiently.
 
 ---
 
