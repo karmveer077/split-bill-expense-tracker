@@ -184,12 +184,6 @@ See `docs/DEPLOYMENT_GUIDE.md` for full step-by-step instructions.
 
 ---
 
-## Project Documentation
-
-| File | Contents |
-|------|---------|
-| `docs/PROJECT_STRUCTURE.md` | Directory and file layout |
-
 
 ## Public Routes
 
