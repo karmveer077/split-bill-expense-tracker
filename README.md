@@ -33,4 +33,3 @@ SplitBill is a full-stack application for managing shared group expenses. Create
 Open the URL shown in the client terminal, normally http://localhost:5173.
 Environment Variables
 Use the included .env.example files as templates. Never commit real .env files or database passwords.
-```
