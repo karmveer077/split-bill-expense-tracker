@@ -188,13 +188,8 @@ See `docs/DEPLOYMENT_GUIDE.md` for full step-by-step instructions.
 
 | File | Contents |
 |------|---------|
-| `docs/API_AND_FUNCTIONS.md` | All 23 APIs and 89 custom functions with descriptions |
-| `docs/PHASE_PROGRESS.md` | Phase-by-phase development history |
 | `docs/PROJECT_STRUCTURE.md` | Directory and file layout |
-| `docs/DEPLOYMENT_GUIDE.md` | Manual deployment guide |
-| `docs/VIVA_GUIDE.md` | Viva Q&A preparation |
 
----
 
 ## Public Routes
 
